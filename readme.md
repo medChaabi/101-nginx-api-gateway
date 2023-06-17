@@ -1,4 +1,4 @@
-# API Gateway 101
+# API Gateway
 ## Tech Stack
  - Nginx 
  - NodeJS/express
@@ -109,7 +109,7 @@ server {
 sudo nginx -t # run test to check if nginx is ok to run
 sudo systemctl restart nginx 
 ```
-- postman
+- Postman
 
 ![image](./fastapi-postman.png)
 ![image](./nodejs-postman.png)
